@@ -78,6 +78,30 @@ Experience in warehouse operations, inventory handling, and workflow organizatio
 - Contribute to financial analytics and credit risk projects  
 - Grow professionally in a company that offers **visa sponsorship**
 
+---
+
+## 🤝 Soft Skills
+- Analytical thinking  
+- Customer communication  
+- Problem-solving  
+- Attention to detail  
+- Adaptability  
+- Teamwork and collaboration  
+- Ability to work under pressure  
+
+---
+
+## 🎯 Interests
+- Financial analytics  
+- Credit risk modeling  
+- Business intelligence  
+- Data storytelling  
+- Process optimization  
+- Dashboard UX  
+- Customer behavior analysis  
+
+---
+
 ## 📊 Technical Skills  
 - **Power BI** (Data Modeling, DAX, ETL, Dashboard Design)  
 - **Power Query** (data cleaning, transformations, automation)  
