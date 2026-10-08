@@ -3,10 +3,26 @@
 </p>
 # 👋 Hi, I'm Andrei
 
-I am a motivated and detail‑oriented professional with experience in **banking, financial services, customer lending, hospitality, and logistics**, currently transitioning into **Data Analytics**.  
-My background in **retail credit, customer risk assessment, and financial operations** helps me approach data with a strong business mindset and a clear understanding of how insights drive real decisions.
+I am a motivated and detail‑oriented professional with experience in **banking, retail credit (PF), financial operations, customer relations, hospitality, and logistics**, currently transitioning into **Data Analytics**.
 
-I combine my professional experience with analytical tools such as **Power BI, Excel, SQL, and Power Query** to build dashboards, automate reporting, and extract meaningful insights that support business performance.
+My background in **credit analysis, customer lending, financial workflows, and operational processes** helps me approach data with a strong business mindset. I understand how financial decisions are made, how risk is evaluated, and how customer behavior impacts business performance — and I use data to support better decisions.
+
+I combine my professional experience with analytical tools such as **Power BI, Excel, SQL, and Power Query** to build dashboards, automate reporting, and extract meaningful insights.
+
+---
+
+## 🚀 Highlights
+- 5+ years of combined experience in banking, customer relations, and operations  
+- Strong understanding of retail credit, risk assessment, and financial processes  
+- Transitioning into Data Analytics with solid business and financial insight  
+- Skilled in Power BI, Excel, SQL, and Power Query  
+- Passionate about transforming data into actionable business decisions  
+
+---
+
+## 👨‍💻 About Me
+I enjoy transforming raw data into clear stories that help businesses understand performance, customers, and financial outcomes.  
+I value clarity, structure, and practical insights — whether I’m analyzing credit data, building dashboards, or improving workflows.
 
 ---
 
@@ -32,6 +48,41 @@ Worked in customer-facing roles in Romania and the United States, developing str
 Experience in warehouse operations, inventory handling, and workflow organization — roles that strengthened discipline, accuracy, and process thinking.
 
 ---
+
+## 📚 What I'm Learning Now
+- Advanced DAX for Power BI  
+- SQL fundamentals and query optimization  
+- Financial analysis and credit risk modeling  
+- Dashboard UX and data storytelling  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-mihai-dadu)
+[![Email](https://img.shields.io/badge/Email-mihaiandrei656@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihaiandrei656@gmail.com)
+
+---
+
+## 🎓 Certifications
+- Microsoft Certified: Power BI Data Analyst (in progress)  
+- Google AI Essentials  
+- Excel Advanced for Business Analytics  
+
+---
+
+## 🌍 Languages
+- Romanian (native)  
+- English (professional proficiency)
+
+---
+
+## 🎯 My Goals for 2026
+- Become a certified Power BI Data Analyst  
+- Build 3–5 complete BI projects  
+- Improve SQL to intermediate level  
+- Transition into a **Data Analyst / BI Analyst / Financial Analyst** role in the **United States**  
+- Contribute to financial analytics and credit risk projects  
+- Grow professionally in a company that offers **visa sponsorship**
 
 ## 📊 Technical Skills  
 - **Power BI** (Data Modeling, DAX, ETL, Dashboard Design)  
