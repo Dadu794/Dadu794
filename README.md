@@ -20,12 +20,6 @@ I combine my professional experience with analytical tools such as **Power BI, E
 
 ---
 
-## 👨‍💻 About Me
-I enjoy transforming raw data into clear stories that help businesses understand performance, customers, and financial outcomes.  
-I value clarity, structure, and practical insights — whether I’m analyzing credit data, building dashboards, or improving workflows.
-
----
-
 ## 🎓 Education  
 **Bachelor’s Degree in International Business – Stefan cel Mare University of Suceava, Romania**  
 Developed a solid foundation in economics, global markets, finance, and business operations.
@@ -80,7 +74,7 @@ Experience in warehouse operations, inventory handling, and workflow organizatio
 - Become a certified Power BI Data Analyst  
 - Build 3–5 complete BI projects  
 - Improve SQL to intermediate level  
-- Transition into a **Data Analyst / BI Analyst / Financial Analyst** role in the **United States**  
+- Transition into a **Data Analyst / BI Analyst / Financial Analyst** role in the **United States** or **Canada** 
 - Contribute to financial analytics and credit risk projects  
 - Grow professionally in a company that offers **visa sponsorship**
 
