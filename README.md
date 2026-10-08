@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Andrei Mihai Banner">
-</p>
 # 👋 Hi, I'm Andrei
 
 I am a motivated and detail‑oriented professional with experience in **banking, financial services, customer lending, hospitality, and logistics**, currently transitioning into **Data Analytics**.  
